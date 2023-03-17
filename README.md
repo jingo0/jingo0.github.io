@@ -7,11 +7,11 @@
 
 
 ### Hi 🙋‍♂️,
-### I'm Computer Science senior at University of Houston. 
+### I'm recent graduate in Computer Science minor in Mathematics from University of Houston.
 
-#### 🌱 Things I am currently working on: 
-- Completing my bachlor's  
-- Taking online courses about bash, reverse engineering
+#### 🌱 Things I am currently working on:  
+- Taking online courses about Angular, flutter, C#
+- Completing certifications in Cloud and Automation
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
@@ -56,7 +56,7 @@
 ***
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jingo0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jingo0&theme=vue-dark&hide_border=true&border_radius=5.3&sideLabels=EB5454&currStreakLabel=EB5454&fire=EB8817&border=EB5454)](https://git.io/streak-stats)
 
 ---
 
